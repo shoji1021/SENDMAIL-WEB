@@ -1,7 +1,7 @@
 ## 実行方法
 1.下記のURLからアクセスしてください
 
-　　https://shoji.pgw.jp/
+　　https://contest-winter25-2-5.lifeistech-lesson.jp/
   
   2. このリポジトリをクローンまたはダウンロードしてから実行してください
 
